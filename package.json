@@ -1,10 +1,10 @@
 {
-  "name": "electron-quick-start",
+  "name": "aplicacion-final-rhc-2023",
   "version": "1.0.0",
-  "description": "A minimal Electron application",
-  "main": "main.js",
+  "description": "Aplicacion final",
+  "main": "src/main.js",
   "scripts": {
-    "start": "electron ."
+    "start": "electron src/main.js"
   },
   "repository": "https://github.com/electron/electron-quick-start",
   "keywords": [
@@ -14,7 +14,7 @@
     "tutorial",
     "demo"
   ],
-  "author": "GitHub",
+  "author": "Raul Herrerias Corral",
   "license": "CC0-1.0",
   "devDependencies": {
     "electron": "^23.1.0"
